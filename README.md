@@ -110,7 +110,7 @@ KafkaConsumerGroupId=simulator
 
 ## 🖐️ Agradecimento
 
-Agradeço a equipe FullCycle, o conteudo pratico foi sensacional usar o wsl com o docker foi uma experiencia unica. As lives a noite 
-também trouxe muito aprendizado de como as grandes empresas estão funcionando
+Agradeço a equipe FullCycle, o conteudo prático foi sensacional usar o wsl com o docker foi uma experiencia única. As lives a noite 
+também acrescentaram muito.
 
 - Link da FullCycle: https://fullcycle.com.br/
